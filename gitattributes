@@ -1,0 +1,14 @@
+# Force LF for scripts and Unity files
+*.cs text eol=lf
+*.shader text eol=lf
+*.meta text eol=lf
+*.txt text eol=lf
+*.asmdef text eol=lf
+
+# Binary files - no modification
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
