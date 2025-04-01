@@ -1,10 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lord5\\Desktop\\BeybladeGame_1_level\\",
+  "WorkspaceRootPath": "C:\\Users\\suche\\Desktop\\Projects\\HEV-beyblade\\HEV-beyblade\\BeybladeGame_1_level\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\lord5\\desktop\\beybladegame_1_level\\assets\\pohyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\pohyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E812326-B515-4F66-3030-63DE5C59BB80}|Assembly-CSharp.csproj|c:\\users\\suche\\desktop\\projects\\hev-beyblade\\hev-beyblade\\beybladegame_1_level\\assets\\gitattributes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E812326-B515-4F66-3030-63DE5C59BB80}|Assembly-CSharp.csproj|solutionrelative:assets\\gitattributes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E812326-B515-4F66-3030-63DE5C59BB80}|Assembly-CSharp.csproj|c:\\users\\suche\\desktop\\projects\\hev-beyblade\\hev-beyblade\\beybladegame_1_level\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E812326-B515-4F66-3030-63DE5C59BB80}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lord5\\Desktop\\BeybladeGame_1_level\\Assets\\pohyb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lord5\\Downloads\\RotatingObjectRb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -17,19 +24,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RotatingObjectRb.cs",
-              "DocumentMoniker": "C:\\Users\\lord5\\Downloads\\RotatingObjectRb.cs",
-              "RelativeDocumentMoniker": "..\\..\\Downloads\\RotatingObjectRb.cs",
-              "ToolTip": "C:\\Users\\lord5\\Downloads\\RotatingObjectRb.cs",
-              "RelativeToolTip": "..\\..\\Downloads\\RotatingObjectRb.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T07:22:04.911Z",
+              "DocumentIndex": 0,
+              "Title": "gitattributes.txt",
+              "DocumentMoniker": "C:\\Users\\suche\\Desktop\\Projects\\HEV-beyblade\\HEV-beyblade\\BeybladeGame_1_level\\Assets\\gitattributes.txt",
+              "RelativeDocumentMoniker": "Assets\\gitattributes.txt",
+              "ToolTip": "C:\\Users\\suche\\Desktop\\Projects\\HEV-beyblade\\HEV-beyblade\\BeybladeGame_1_level\\Assets\\gitattributes.txt",
+              "RelativeToolTip": "Assets\\gitattributes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-01T06:55:17.61Z",
               "EditorCaption": ""
             },
             {
@@ -38,16 +45,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\suche\\Desktop\\Projects\\HEV-beyblade\\HEV-beyblade\\BeybladeGame_1_level\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\suche\\Desktop\\Projects\\HEV-beyblade\\HEV-beyblade\\BeybladeGame_1_level\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T06:28:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotatingObjectRb.cs",
+              "DocumentMoniker": "C:\\Users\\lord5\\Downloads\\RotatingObjectRb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\lord5\\Downloads\\RotatingObjectRb.cs",
+              "ToolTip": "C:\\Users\\lord5\\Downloads\\RotatingObjectRb.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lord5\\Downloads\\RotatingObjectRb.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:22:04.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "pohyb.cs",
               "DocumentMoniker": "C:\\Users\\lord5\\Desktop\\BeybladeGame_1_level\\Assets\\pohyb.cs",
-              "RelativeDocumentMoniker": "Assets\\pohyb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\lord5\\Desktop\\BeybladeGame_1_level\\Assets\\pohyb.cs",
               "ToolTip": "C:\\Users\\lord5\\Desktop\\BeybladeGame_1_level\\Assets\\pohyb.cs",
-              "RelativeToolTip": "Assets\\pohyb.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lord5\\Desktop\\BeybladeGame_1_level\\Assets\\pohyb.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T07:20:52.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T07:20:52.849Z"
             }
           ]
         }

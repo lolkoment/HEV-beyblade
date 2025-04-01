@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/hp/noote/unity/projects/HEV-beyblade-main/BeybladeGame_1_level/Packages/manifest.json
+    m_FilePath: C:/Users/suche/Desktop/Projects/HEV-beyblade/HEV-beyblade/BeybladeGame_1_level/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638778842295732885
-    m_Hash: 2246088641
+      ticks: 638790841321166011
+    m_Hash: 2756843845
   m_LockFileStatus:
-    m_FilePath: D:/hp/noote/unity/projects/HEV-beyblade-main/BeybladeGame_1_level/Packages/packages-lock.json
+    m_FilePath: C:/Users/suche/Desktop/Projects/HEV-beyblade/HEV-beyblade/BeybladeGame_1_level/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638778842988633441
-    m_Hash: 3749532574
+      ticks: 638790843355559876
+    m_Hash: 354613985
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: D:/hp/noote/unity/projects/HEV-beyblade-main/BeybladeGame_1_level/Packages
-m_EditorVersion: 6000.0.42f1 (feb9a7235030)
+m_ProjectPath: C:/Users/suche/Desktop/Projects/HEV-beyblade/HEV-beyblade/BeybladeGame_1_level/Packages
+m_EditorVersion: 6000.0.26f1 (ccb7c73d2c02)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@3.1.3
   testable: 0
   isDirectDependency: 1
   version: 3.1.3
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.cinemachine@624f919d8cdd
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.cinemachine
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -126,6 +126,7 @@ m_ResolvedPackages:
     - 3.1.2
     - 3.1.3
     compatible:
+    - 2.10.2
     - 2.10.3
     - 3.0.0-pre.3
     - 3.0.0-pre.4
@@ -148,13 +149,17 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.splines
-    version: 2.7.2
+    version: 2.6.1
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
   - name: com.unity.mathematics
     version: 1.3.2
   - name: com.unity.settings-manager
     version: 2.0.1
-  - name: com.unity.modules.imgui
-    version: 1.0.0
   keywords:
   - camera
   - follow
@@ -199,7 +204,7 @@ m_ResolvedPackages:
     revision: 23940e5601df6628d349dc9d1912bd2bb34ad631
     path: 
   unityLifecycle:
-    version: 2.10.3
+    version: 2.10.2
     nextVersion: 
     recommendedVersion: 3.1.0
     isDeprecated: 0
@@ -230,14 +235,14 @@ m_ResolvedPackages:
   fingerprint: 624f919d8cdd376712eda21b43abcb0330c023e2
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 2.10.3
+    minimumPackageVersion: 2.10.2
     minimumUnityVersion: 2022.3.0a1
 - packageId: com.unity.collab-proxy@2.7.1
   testable: 0
   isDirectDependency: 1
   version: 2.7.1
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.collab-proxy@50ac96531b63
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.collab-proxy
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -331,8 +336,10 @@ m_ResolvedPackages:
     - 2.6.0
     - 2.7.1
     compatible:
+    - 2.5.2
+    - 2.6.0
     - 2.7.1
-    recommended: 2.7.1
+    recommended: 2.5.2
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -373,7 +380,7 @@ m_ResolvedPackages:
     revision: cf9c21f84be18cbe2d6a93ec7cfbeb01b4310bbe
     path: 
   unityLifecycle:
-    version: 2.7.1
+    version: 2.5.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -413,14 +420,14 @@ m_ResolvedPackages:
   fingerprint: 50ac96531b6358586ccfdf8cc845939bf50d9fab
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 2.7.1
+    minimumPackageVersion: 2.5.2
     minimumUnityVersion: 2021.3.0f1
 - packageId: com.unity.feature.development@1.0.2
   testable: 0
   isDirectDependency: 1
   version: 1.0.2
   source: 2
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.feature.development
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -459,7 +466,7 @@ m_ResolvedPackages:
   - name: com.unity.ide.visualstudio
     version: 2.0.22
   - name: com.unity.test-framework
-    version: 1.4.6
+    version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
@@ -471,7 +478,7 @@ m_ResolvedPackages:
   - name: com.unity.editorcoroutines
     version: 1.0.0
   - name: com.unity.performance.profile-analyzer
-    version: 1.2.3
+    version: 1.2.2
   - name: com.unity.testtools.codecoverage
     version: 1.2.6
   - name: com.unity.settings-manager
@@ -508,10 +515,10 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"quickstart":"https://docs.unity3d.com/Documentation/Manual/DeveloperToolsFeature.html"}'
+  upmReserved: '{"quickstart":"https://docs.unity3d.com/2021.2/Documentation/Manual/DeveloperToolsFeature.html"}'
   assetStore:
     productId: 
-  fingerprint: 767aadbc6eb72681a4ca807c8fa248e0230a0cef
+  fingerprint: c770b6a36a30949b030c5ec02d835f771b975cbb
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.2
@@ -521,7 +528,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.multiplayer.center
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -601,7 +608,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: f3fb577b3546594b97b8cc34307cd621f60f1c73
+  fingerprint: f502d8ac613fa076192423e73892fbd89eb4049b
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -611,7 +618,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.7
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.timeline@c58b4ee65782
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.timeline
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -797,7 +804,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.ugui@9496653a3df6
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.ugui
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -879,7 +886,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 9496653a3df6648f8e3a165cac05bba08c614150
+  fingerprint: 12b988ed4f6aa6c2fcb678e1904d5cd4d5ef471c
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.0
@@ -889,7 +896,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.5
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.visualscripting@1b53f46e931b
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.visualscripting
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -938,6 +945,7 @@ m_ResolvedPackages:
     - 1.9.5
     - 1.9.6
     compatible:
+    - 1.9.4
     - 1.9.5
     - 1.9.6
     recommended: 1.9.6
@@ -979,7 +987,7 @@ m_ResolvedPackages:
     revision: 3621ef0207747a605f195118ba99d1a8bdb19433
     path: 
   unityLifecycle:
-    version: 1.9.5
+    version: 1.9.4
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1001,14 +1009,14 @@ m_ResolvedPackages:
   fingerprint: 1b53f46e931bea668e53f1feb0ac9138170c9455
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.9.5
+    minimumPackageVersion: 1.9.4
     minimumUnityVersion: 2021.3.0a1
 - packageId: com.unity.modules.accessibility@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -1075,7 +1083,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1142,7 +1150,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1208,7 +1216,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1275,7 +1283,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1342,7 +1350,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1409,7 +1417,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1480,7 +1488,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1555,7 +1563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1622,7 +1630,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1689,7 +1697,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1756,7 +1764,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1823,7 +1831,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1890,7 +1898,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1957,7 +1965,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2028,7 +2036,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2095,7 +2103,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2170,7 +2178,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2240,7 +2248,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2307,7 +2315,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2390,7 +2398,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2457,7 +2465,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2531,7 +2539,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2598,7 +2606,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2673,7 +2681,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2748,7 +2756,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2823,7 +2831,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2914,7 +2922,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2985,7 +2993,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3064,7 +3072,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.vr
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3145,7 +3153,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3212,7 +3220,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3291,7 +3299,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3362,7 +3370,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: D:\unity\6000.0.42f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -3429,7 +3437,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.22
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.ide.visualstudio@8140e851d83e
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.ide.visualstudio
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -3469,16 +3477,18 @@ m_ResolvedPackages:
     - 2.0.20
     - 2.0.21
     - 2.0.22
+    - 2.0.23
     compatible:
     - 2.0.22
-    recommended: 2.0.22
+    - 2.0.23
+    recommended: 2.0.23
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.4.6
+    version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
@@ -3535,7 +3545,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.31
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.ide.rider@7921be93db40
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.ide.rider
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -3595,10 +3605,12 @@ m_ResolvedPackages:
     - 3.0.28
     - 3.0.31
     - 3.0.34
+    - 3.0.35
     compatible:
     - 3.0.31
     - 3.0.34
-    recommended: 3.0.34
+    - 3.0.35
+    recommended: 3.0.35
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -3654,7 +3666,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.editorcoroutines
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3726,12 +3738,12 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
     minimumUnityVersion: 2018.1.0a1
-- packageId: com.unity.performance.profile-analyzer@1.2.3
+- packageId: com.unity.performance.profile-analyzer@1.2.2
   testable: 0
   isDirectDependency: 0
-  version: 1.2.3
+  version: 1.2.2
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.performance.profile-analyzer
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3740,7 +3752,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "The Profile Analyzer tool supports the standard Unity Profiler. You
     can use it to analyze multiple frames and multiple data sets of the CPU data
     in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
@@ -3765,6 +3777,7 @@ m_ResolvedPackages:
     - 1.2.2
     - 1.2.3
     compatible:
+    - 1.2.2
     - 1.2.3
     recommended: 1.2.3
     deprecated: []
@@ -3783,16 +3796,16 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638699545898200000
+  datePublishedTicks: 638108624620000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.performance.profile-analyzer@1.2/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.performance.profile-analyzer.git
-    revision: 835e61d94bd201d0dea5763dff75e86b6b61de29
+    revision: 2c63f931588caa60a1fef33b1b250b20d952dc58
     path: 
   unityLifecycle:
-    version: 1.2.3
+    version: 1.2.2
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3802,21 +3815,21 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Fixed\n\n* Fixed minimum supported version in documentation.\n*
-    Fixed PROFB-199; Unchecking ''Hide Removed Markers'' doesn''t work."}'
+  upmReserved: '{"changelog":"### Fixed\n\n* Fixed exception thrown when removing
+    marker."}'
   assetStore:
     productId: 
-  fingerprint: a68e7bc849973d943853204178d08a2bc7656ffe
+  fingerprint: fe7acfd2717a98ded6ddc33be6b2ebe4459a2add
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.2.3
+    minimumPackageVersion: 1.2.2
     minimumUnityVersion: 2020.3.0a1
-- packageId: com.unity.test-framework@1.4.6
+- packageId: com.unity.test-framework@1.4.5
   testable: 0
   isDirectDependency: 0
-  version: 1.4.6
+  version: 1.4.5
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.test-framework@5ac417e07314
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.test-framework
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -3825,7 +3838,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
-  type: 
+  type: assets
   description: Test framework for running Edit mode and Play mode tests in Unity.
   errors: []
   versions:
@@ -3885,6 +3898,7 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
+    - 1.4.5
     - 1.4.6
     - 2.0.1-exp.1
     - 2.0.1-exp.2
@@ -3921,16 +3935,16 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638743524358990000
+  datePublishedTicks: 638575054880000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.4/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 9c6028f63a9b875e714b65de151b74e170152d49
+    revision: e50747c90fb18ab9f4f350b60d0fcdcae19bdebc
     path: 
   unityLifecycle:
-    version: 1.4.6
+    version: 1.4.5
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -3940,35 +3954,47 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"- Fixed an issue where the architecture flag would
-    not be parsed for the StandaloneOSX platform.\n- Fixed an issue where the test
-    results ui and progress bar would not update before a user input, such as mouse
-    movement, was detected (UTF-609).\n- Fixed an issue where root of the test tree
-    was marked as NotRun, when all the tests were run and at least one test is ignore.\n-
-    Ensure that an error is raised and the test run is stopped if a playmode test
-    method exits playmode (DSTR-1091). \n- Async editmode tests are no longer throw
-    error when yielding a different value than null (DSTR-1066)\n- Fixed an issue
-    where the \"C# Test Script\" button was always disabled in One Column view in
-    Project tab. (DSTR-1083)\n- Async and UnityTest can now use ParametrizedIgnore
-    attribute. (DSTR-1068)\n- Corrected Timeout to only apply to the test method
-    and not the teardown methods, ensuring that TearDown is always run if a test
-    case times out (DSTR-1077).\n- Added a queue size indicator in the player side
-    test result ui. This can be used to track the progress of sending back result
-    data to the editor.\n- Parent node of the test tree is now updated after all
-    children finish running and have a result."}'
+  upmReserved: '{"changelog":"- Fixed an issue where batchmode test runs would never
+    finish if a test yielded WaitForEndOfFrame (DSTR-1009).\n- Fixed an issue where
+    the location prompt was required when using the Install all tests in ''build''
+    folder option during test builds.\n- Canceling a PlayMode test run now correctly
+    restores the scene setup, instead of leaving the editor in the test scene.\n-
+    Fixed an issue where UnitySetUp did not fail when nested coroutines threw an
+    exception (DSTR-1007).\n- When selecting multiple tests and running them, the
+    test runner now correctly updates the details of the first selected test (UTF-602).\n-
+    The interaction mode and application idle time settings is now being changes
+    when running tests, resulting in faster test runs if not already in use (applies
+    to 2020.3 and later) (DSTR-690).\n- Fixed an issue where some NUnit attributes
+    caused errors and stopped async test runs (DSTR-1040).\n- Added support for the
+    MaxTime attribute on async and UnityTest methods (DSTR-1040).\n- Fixed a memory
+    leak issue where a large number of domain reloads within the same test could
+    crash the editor (DSTR-1023).\n- Changed to use a progress bar inside the test
+    runner window when running tests. This ensures that the progress bar is not fighting
+    to display when e.g. compiling scripts and also makes it easier to cancel a run.
+    This progress bar is displayed for all types of runs (EditMode, PlayMode and
+    Player). (UTF-596).\n- Fixed an issue where ignored tests with an attributes
+    did not display the ignore reason in the test runner UI.\n- Having multiple tests
+    with the same unique id no longer gives a error with ''An item with the same
+    key has already been added'', but instead logs an warning about the duplicate
+    id.\n- The result icons for test suites should no longer flicker when running
+    tests.\n- Ensured that test results ignored in the editor but run on a player
+    are not overwritten with ignore status when shown in the UI (DSTR-1042).\n- Fixed
+    an issue where the RunStarted event was not invoked correctly during a test run
+    (DSTR-1046).\n- Fixed an issue where TestStarted and TestFinished events were
+    repeated for ignored test fixtures after a domain reload (DSTR-986)."}'
   assetStore:
     productId: 
-  fingerprint: 5ac417e07314c8f6afba8109738c32b82d391e68
+  fingerprint: 0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 1.4.6
-    minimumUnityVersion: 2019.4.1f1
+    minimumPackageVersion: 1.4.5
+    minimumUnityVersion: 2019.4.0a10
 - packageId: com.unity.testtools.codecoverage@1.2.6
   testable: 0
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.testtools.codecoverage
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -4028,7 +4054,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.4.6
+    version: 1.4.5
   - name: com.unity.ext.nunit
     version: 2.0.5
   - name: com.unity.modules.imgui
@@ -4086,12 +4112,12 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.2.6
     minimumUnityVersion: 2019.3.0a1
-- packageId: com.unity.splines@2.7.2
+- packageId: com.unity.splines@2.6.1
   testable: 0
   isDirectDependency: 0
-  version: 2.7.2
+  version: 2.6.1
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.splines@d3e1e500c9a0
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.splines
   assetPath: Packages/com.unity.splines
   name: com.unity.splines
   displayName: Splines
@@ -4128,15 +4154,25 @@ m_ResolvedPackages:
     - 2.7.1
     - 2.7.2
     compatible:
+    - 2.6.1
+    - 2.7.1
     - 2.7.2
-    recommended: 2.7.2
+    recommended: 2.6.1
     deprecated: []
   dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
   - name: com.unity.mathematics
     version: 1.2.1
   - name: com.unity.settings-manager
     version: 1.0.3
   resolvedDependencies:
+  - name: com.unity.ugui
+    version: 2.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
   - name: com.unity.mathematics
     version: 1.3.2
   - name: com.unity.settings-manager
@@ -4157,16 +4193,16 @@ m_ResolvedPackages:
   entitlements:
     licensingModel: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 638678084074740000
+  datePublishedTicks: 638522292040000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
-    revision: f8048bc97f9cc23fe3db45eceb767e6ab97f37f5
+    revision: f77ddc46ebeef1a8dca1264827b93dbec50d3772
     path: 
   unityLifecycle:
-    version: 2.7.2
+    version: 2.6.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4176,36 +4212,31 @@ m_ResolvedPackages:
   git:
     hash: 
     revision: 
-  upmReserved: '{"changelog":"### Bug Fixes\n- [SPLB-315] Fixed a bug where the `DrawSplineTool`
-    icon was missing in the tools overlay.  \n- [STO-3434] Fixed a bug where the
-    `DrawSplineTool` would prevent the use of the view tool.\n- [STO-3435] Fixed
-    a bug where the `DrawSplineTool` would not display the tool settings anymore.
-    \n- [SPLB-296] Fixed a bug where a log message would appear in the console when
-    2 knots are at the same position with 0-length tangents.\n- [SPLB-304] Fixed
-    a bug where an exception would be thrown when using `SplineInstantiate` with
-    linear distance instantiate method and multiple splines. \n- Fixed some failures
-    related to the inline API documentation.\n- [SPLB-302] Fixed a bug where an exception
-    would be thrown when adding a knot to a closed spline from inspector.\n- [SPLB-311]
-    Fixed a bug where `SplineAnimate` component would not function properly with
-    non-uniform scale transforms.\n- Fixed compilation errors in builds\n- [SPLB-310]
-    Fixed mesh extrude not being saved when a change is applied to a mesh asset.
-    \n- [SPLB-303] Fixed a bug where spline section foldout labels (shape extrude,
-    geometry, advanced) did not unfold the sections when clicked.\n- [SPLB-294] Fixed
-    a bug where adding new splines by using the `SplineContainer` inspector would
-    dirty all open scenes."}'
+  upmReserved: '{"changelog":"### Bug Fixes\n\n- [SPLB-275] Fixed a bug where the
+    `SplineContainer` component would throw warning when entering playmode.\n- [SPLB-266]
+    Fixed a bug where instantiating a `SplineExtrude` component at runtime would
+    throw errors.\n- [SPLB-269] Fixed a bug where instantiating a `SplineAnimate`
+    component at runtime would throw errors.\n- [SPLB-260] Fixed a bug where playing
+    a `SplineAnimate` from a start method would not work.\n- [SPLB-267] Fixed a bug
+    where undoing a spline insertion in a container would throw errors from the `SplineInstantiate`
+    component.\n- [SPLB-261] Fixed a bug where the knot placement tool would not
+    work when multiple scene views were opened.\n- [SPLB-253] Fixed a bug where using
+    the knot placement tool in 2D mode would not work if the grids are turned off.\n-
+    [SPLB-258] Fixed a bug where destroying a component would throw errors in the
+    console."}'
   assetStore:
     productId: 
-  fingerprint: d3e1e500c9a0fa3a1e812117108982dd612c2e27
+  fingerprint: 930eaf55e68be9f5d58f63035b2a96d9c3c3e695
   editorCompatibility:
     compatibilityLevel: 0
-    minimumPackageVersion: 2.7.2
+    minimumPackageVersion: 2.6.1
     minimumUnityVersion: 2022.3.0a1
 - packageId: com.unity.settings-manager@2.0.1
   testable: 0
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.settings-manager@56a930affa1e
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.settings-manager
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -4279,7 +4310,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.ext.nunit@60ef35ffd3cd
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.ext.nunit
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4358,7 +4389,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: D:\hp\noote\unity\projects\HEV-beyblade-main\BeybladeGame_1_level\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: C:\Users\suche\Desktop\Projects\HEV-beyblade\HEV-beyblade\BeybladeGame_1_level\Library\PackageCache\com.unity.mathematics
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4442,4 +4473,4 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 1.3.2
     minimumUnityVersion: 2021.3.0a1
-m_BuiltInPackagesHash: 5cc2183adbed14326d9ff00e3ac2b5eedcc9d592
+m_BuiltInPackagesHash: 6a36fcc23a6e38d7959839a7c75376e317d64099
