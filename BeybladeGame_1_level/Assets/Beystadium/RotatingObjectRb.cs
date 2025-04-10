@@ -11,6 +11,9 @@ public class RotatingObjectRb : MonoBehaviour
     [SerializeField] private float rotationSpeed = 10f;
     [SerializeField] private float maxRotationSpeed = 50f;
 
+    [Header("Movement Settings")]
+    [SerializeField] private float moveForce = 10f;
+
     void Start()
     {
         myRb = GetComponent<Rigidbody>();
@@ -18,6 +21,12 @@ public class RotatingObjectRb : MonoBehaviour
     }
 
     void FixedUpdate()
+    {
+        RotateObject();
+        MoveObject();
+    }
+
+    private void RotateObject()
     {
         Vector3 axis = Vector3.zero;
 
@@ -40,5 +49,16 @@ public class RotatingObjectRb : MonoBehaviour
         {
             myRb.angularVelocity = myRb.angularVelocity.normalized * maxRotationSpeed;
         }
+    }
+
+    private void MoveObject()
+    {
+        float h = Input.GetAxis("Horizontal"); // A (-1) ... D (1)
+        float v = Input.GetAxis("Vertical");   // S (-1) ... W (1)
+
+        Vector3 forceDirection = new Vector3(h, 0, v).normalized;
+
+        // Pøidej sílu ve smìru pohybu
+        myRb.AddForce(forceDirection * moveForce, ForceMode.Force);
     }
 }

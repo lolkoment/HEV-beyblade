@@ -1,0 +1,576 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1744210755669876, "dur":77, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210755669998, "dur":56304, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210755726318, "dur":263, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210755726658, "dur":1187, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210755727946, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1744210755728216, "dur":212, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1744210755728556, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1744210755728784, "dur":188, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1744210755729219, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1744210755729624, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755730034, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755730310, "dur":250, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755730570, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755730667, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755730865, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755731145, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755731454, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755731743, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755731876, "dur":167, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755732092, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755732242, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755732687, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755732889, "dur":186, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755733285, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755733483, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755733743, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755734086, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755734328, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755734499, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755734747, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735013, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735145, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735368, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735502, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735710, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735783, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755735945, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755736155, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1744210755736336, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame.exe" }}
+,{ "pid":12345, "tid":0, "ts":1744210755736432, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755736822, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1744210755736882, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1744210755737108, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1744210755737419, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1744210755737529, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1744210755737631, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744210755727932, "dur":9760, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210755737695, "dur":509906, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210756247602, "dur":201, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210756247803, "dur":101, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210756248063, "dur":1744, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1744210755729129, "dur":8749, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755737894, "dur":3377, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755741273, "dur":2710, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755744053, "dur":540, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.IO.UnmanagedMemoryStream.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755746552, "dur":626, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Dynamic.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755743984, "dur":3796, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755747781, "dur":12069, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755759853, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760123, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760252, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760373, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760641, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760807, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755760970, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755761215, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755761302, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755761391, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755761491, "dur":9713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755771321, "dur":56159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755771207, "dur":56277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755827504, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744210755827624, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755830760, "dur":63364, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755830677, "dur":63449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755894147, "dur":4787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755899055, "dur":49947, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755898949, "dur":50057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755949058, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755954019, "dur":43063, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755953875, "dur":43209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755997106, "dur":1313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755998451, "dur":55782, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210755998421, "dur":55816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756054293, "dur":3748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756058122, "dur":21463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756058048, "dur":21539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756079603, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756081623, "dur":74957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756081590, "dur":74991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756156597, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756161344, "dur":25300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756161310, "dur":25336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756186673, "dur":1807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756188517, "dur":41239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756188484, "dur":41275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756229792, "dur":3193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744210756232994, "dur":14610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755729367, "dur":8573, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755737969, "dur":3313, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755741283, "dur":3091, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755744376, "dur":2268, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755746645, "dur":13364, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755760010, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1744210755760129, "dur":448, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755760597, "dur":388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1744210755760987, "dur":344, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755761498, "dur":9697, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744210755771340, "dur":50228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755771197, "dur":50375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755821644, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755825035, "dur":46489, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755824956, "dur":46572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755871600, "dur":3176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755874814, "dur":54711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755874779, "dur":54749, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755929576, "dur":3140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755932816, "dur":42728, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755932723, "dur":42824, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755975611, "dur":2691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755978335, "dur":44600, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210755978305, "dur":44633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756022986, "dur":1829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756024854, "dur":54709, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756024819, "dur":54746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756079591, "dur":2007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756081635, "dur":75566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756081601, "dur":75602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756157234, "dur":5332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756162667, "dur":35264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756162570, "dur":35368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756197962, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756199215, "dur":46330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756199184, "dur":46362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744210756245577, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755730055, "dur":8137, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755738211, "dur":3534, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755743033, "dur":534, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.OracleClient.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755741747, "dur":3769, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755746519, "dur":619, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1744210755745517, "dur":1913, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755747431, "dur":12534, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755759971, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1744210755760253, "dur":284, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755760572, "dur":853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1744210755761426, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755761577, "dur":9656, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755771358, "dur":32067, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755771234, "dur":32194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755815082, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744210755805591, "dur":9605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755815395, "dur":48184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755815200, "dur":48383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755863642, "dur":8249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755872293, "dur":45640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755871897, "dur":46038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755917986, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755919415, "dur":38965, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755919333, "dur":39050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755958433, "dur":3221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755961693, "dur":37556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755961657, "dur":37594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210755999270, "dur":1283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756000589, "dur":46572, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756000556, "dur":46608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756047213, "dur":3116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756050430, "dur":45563, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756050335, "dur":45662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756096090, "dur":5433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756101570, "dur":52433, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756101527, "dur":52479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756154079, "dur":3325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756157454, "dur":42953, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756157407, "dur":43002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756200433, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756201923, "dur":39809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756201861, "dur":39874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756241800, "dur":2406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744210756244209, "dur":3374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755728805, "dur":8986, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755738164, "dur":778, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.exe" }}
+,{ "pid":12345, "tid":4, "ts":1744210755737850, "dur":3113, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755740964, "dur":2261, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755743226, "dur":2611, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755745838, "dur":14021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755759862, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760106, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760205, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760292, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760378, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760492, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755760613, "dur":530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1744210755761144, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755761232, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755761319, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755761414, "dur":9841, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755771362, "dur":67674, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755771256, "dur":67783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755839097, "dur":4000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755843203, "dur":56720, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755843104, "dur":56823, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755899984, "dur":5474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755905570, "dur":51575, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755905465, "dur":51684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755957206, "dur":3822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755961089, "dur":33922, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755961031, "dur":33984, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755995038, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744210755995101, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755998282, "dur":41588, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210755998242, "dur":41630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756039910, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756041665, "dur":37407, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756041617, "dur":37459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756079128, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756081197, "dur":36402, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Splines.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756081163, "dur":36438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756117622, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756119020, "dur":65553, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756118989, "dur":65587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756184629, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756186888, "dur":42663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756186855, "dur":42699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756229603, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744210756232426, "dur":15155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755729093, "dur":8764, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755737875, "dur":2844, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755740721, "dur":2178, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755742900, "dur":2860, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755745761, "dur":14121, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755759883, "dur":358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760242, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760390, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760574, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760673, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760780, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755760974, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755761053, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1744210755761117, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755761271, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755761485, "dur":9723, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755771350, "dur":48239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755771211, "dur":48381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755819666, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755823134, "dur":41764, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755822981, "dur":41921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755864916, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755872462, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744210755865078, "dur":7469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755872658, "dur":77774, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755872553, "dur":77880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755950449, "dur":4318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755954828, "dur":37795, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755954770, "dur":37856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755992674, "dur":4769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755997482, "dur":40655, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210755997446, "dur":40692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756038171, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756040087, "dur":55987, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756040054, "dur":56023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756096114, "dur":5566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756101733, "dur":54788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756101683, "dur":54840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756156549, "dur":2880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756159508, "dur":33810, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756159433, "dur":33888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756193375, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756196054, "dur":41254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756195977, "dur":41334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756237361, "dur":2635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744210756240000, "dur":7567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755728549, "dur":9173, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755742921, "dur":71, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Assets/StreamingAssets" }}
+,{ "pid":12345, "tid":6, "ts":1744210755742993, "dur":2200, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":6, "ts":1744210755745194, "dur":11559, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":6, "ts":1744210755756753, "dur":172, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":6, "ts":1744210755756925, "dur":2119, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":6, "ts":1744210755759045, "dur":112, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":6, "ts":1744210755759157, "dur":343, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":6, "ts":1744210755759500, "dur":216, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":6, "ts":1744210755737740, "dur":22082, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755759844, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/10515579183618248467.rsp" }}
+,{ "pid":12345, "tid":6, "ts":1744210755759958, "dur":439, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755760409, "dur":2123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/lord5/Desktop/HEV-beyblade/BeybladeGame_1_level/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":6, "ts":1744210755762533, "dur":3265, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755771170, "dur":31050, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755771133, "dur":31089, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755815035, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744210755805369, "dur":9744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755815288, "dur":66055, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755815118, "dur":66229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755881410, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755884742, "dur":60167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755884708, "dur":60204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755944966, "dur":4627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755949694, "dur":40524, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755949599, "dur":40623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755990275, "dur":6765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755997138, "dur":67477, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210755997045, "dur":67574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756064701, "dur":5027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756069803, "dur":43784, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756069733, "dur":43858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756113641, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756116196, "dur":42305, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756116160, "dur":42343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756158528, "dur":5122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756163707, "dur":65847, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756163653, "dur":65904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756229616, "dur":2736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744210756232356, "dur":15242, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755729679, "dur":8411, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755740927, "dur":551, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755741479, "dur":773, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebSockets.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755742253, "dur":618, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.WebSockets.Client.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755738112, "dur":4927, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755743040, "dur":2246, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755746664, "dur":514, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755745287, "dur":2812, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755748100, "dur":11798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755759899, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1744210755760107, "dur":487, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755760607, "dur":380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1744210755760989, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755761073, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1744210755761191, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755761408, "dur":9742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744210755771314, "dur":62140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755771153, "dur":62305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755833527, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755836692, "dur":56990, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755836607, "dur":57076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755893712, "dur":2837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755896586, "dur":51580, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755896553, "dur":51616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755948226, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755950816, "dur":28685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755950768, "dur":28735, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755979528, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755981739, "dur":53061, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210755981677, "dur":53126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756034853, "dur":3562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756038464, "dur":60481, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756038418, "dur":60530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756098996, "dur":3138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756102170, "dur":58980, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756102136, "dur":59016, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756161186, "dur":2887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756164109, "dur":58158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756164075, "dur":58196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756222324, "dur":2634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744210756224963, "dur":22601, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755729549, "dur":8472, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755738309, "dur":602, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.Serialization.Primitives.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755738046, "dur":2995, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755741042, "dur":2325, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755743368, "dur":2541, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755745910, "dur":13945, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755759858, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760204, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760419, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760540, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760625, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760779, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760872, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755760960, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755761111, "dur":339, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755761469, "dur":9754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755771382, "dur":53458, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755771225, "dur":53618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755824856, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210755824918, "dur":2887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755827920, "dur":134202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755827811, "dur":134313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755962167, "dur":3830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755966091, "dur":41628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210755966004, "dur":41718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756010450, "dur":136, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744210756007767, "dur":2855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756010800, "dur":55558, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756010629, "dur":55732, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756066413, "dur":2678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756069170, "dur":46944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756069097, "dur":47019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756116165, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756117455, "dur":40153, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756117423, "dur":40186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756157631, "dur":4583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756162274, "dur":34444, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756162218, "dur":34503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756196799, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756199179, "dur":44972, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756199142, "dur":45011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756244179, "dur":1167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744210756245348, "dur":2220, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755729880, "dur":8234, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755738124, "dur":2373, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755740498, "dur":2281, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755742780, "dur":2098, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755746521, "dur":603, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755744879, "dur":2846, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755747726, "dur":12100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755759846, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":9, "ts":1744210755760000, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755760153, "dur":1944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":9, "ts":1744210755762098, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755762206, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755762263, "dur":8965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755771343, "dur":34866, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755771230, "dur":34982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755807328, "dur":7762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755815250, "dur":49517, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755815097, "dur":49674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755864785, "dur":246, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744210755865043, "dur":9379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755874462, "dur":48500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755874427, "dur":48539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755923022, "dur":4058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755927184, "dur":47509, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755927087, "dur":47609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755974746, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755977719, "dur":47203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210755977683, "dur":47240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756024942, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756027154, "dur":45958, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756027083, "dur":46033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756073171, "dur":3400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756076654, "dur":46357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756076578, "dur":46436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756123062, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756125817, "dur":32683, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756125734, "dur":32768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756158521, "dur":5133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756163703, "dur":37193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756163656, "dur":37242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756200921, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756202180, "dur":35435, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756202143, "dur":35475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756237661, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744210756240109, "dur":7453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755730439, "dur":8017, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755740874, "dur":603, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp.dll.config" }}
+,{ "pid":12345, "tid":10, "ts":1744210755738457, "dur":3515, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755741972, "dur":2028, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755744001, "dur":2659, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755746661, "dur":13176, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755759874, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755760223, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1744210755760303, "dur":459, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755760773, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755761245, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755761386, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755761552, "dur":9666, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755771349, "dur":68598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755771222, "dur":68729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755840001, "dur":3942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755844034, "dur":65878, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755843949, "dur":65967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755915900, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210755909966, "dur":6020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755916070, "dur":41122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755915993, "dur":41202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755957232, "dur":3616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755960887, "dur":40842, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210755960852, "dur":40879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756001752, "dur":2335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756004127, "dur":46628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756004091, "dur":46667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756050800, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756052248, "dur":50215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756052214, "dur":50250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756102484, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756103612, "dur":55562, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756103575, "dur":55601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756159198, "dur":4488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756163754, "dur":42172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756163711, "dur":42219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756205981, "dur":3180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756209242, "dur":35888, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756209167, "dur":35964, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756246968, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744210756245163, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744210756247051, "dur":551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755730190, "dur":8040, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755738238, "dur":2577, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755740816, "dur":1952, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755742768, "dur":2100, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755746528, "dur":630, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755744869, "dur":2568, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755747438, "dur":12402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755759846, "dur":234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1744210755760081, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755760168, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1744210755760299, "dur":543, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755760863, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755761060, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755761173, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755761338, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755761430, "dur":9800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755771383, "dur":53795, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755771232, "dur":53949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755829513, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210755825208, "dur":4399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755829806, "dur":58167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755829615, "dur":58362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755888070, "dur":2857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755891035, "dur":59315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755890934, "dur":59417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755950376, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755954131, "dur":45081, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755954050, "dur":45163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210755999234, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756000603, "dur":39171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756000572, "dur":39204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756039810, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756041390, "dur":54739, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756041343, "dur":54789, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756096225, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756101598, "dur":52408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756101533, "dur":52476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756154024, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744210756154091, "dur":3121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756157263, "dur":50439, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756157215, "dur":50490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756207750, "dur":2698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756210498, "dur":34678, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756210453, "dur":34725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756245191, "dur":1734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744210756246928, "dur":632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755730288, "dur":8001, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755738306, "dur":3333, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755743834, "dur":541, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IdentityModel.Selectors.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755741641, "dur":3191, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755746580, "dur":588, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.28f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755744834, "dur":3172, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755748007, "dur":11837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755759848, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1744210755760126, "dur":416, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755760543, "dur":109, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1744210755760655, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame.exe" }}
+,{ "pid":12345, "tid":12, "ts":1744210755760851, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755761014, "dur":391, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755761407, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":12, "ts":1744210755761464, "dur":9768, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210755771342, "dur":34556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755771233, "dur":34668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755806363, "dur":8620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755815125, "dur":41810, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755814992, "dur":41951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755857045, "dur":3266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755860407, "dur":41948, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755860319, "dur":42039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755902417, "dur":3131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755905642, "dur":56192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755905553, "dur":56283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755961854, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755963437, "dur":39088, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210755963394, "dur":39134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756002577, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756004423, "dur":38646, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756004388, "dur":38683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756043096, "dur":6520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756049703, "dur":108441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756049624, "dur":108521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756158166, "dur":5533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756163739, "dur":46240, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756163701, "dur":46281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756210025, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756211608, "dur":32053, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756211565, "dur":32099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756246942, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744210756243708, "dur":3337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/lord5/Desktop/Nov sloka/BeybladeGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744210756247054, "dur":525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744210756254549, "dur":2957, "ph":"X", "name": "ProfilerWriteOutput" }
+,
